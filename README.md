@@ -7,10 +7,7 @@ This project aims to predict the types of rock formations—specifically Alluviu
 The data for this project was obtained from the Utah FORGE Well 58-32 dataset, available on the Geothermal Data Repository (https://gdr.openei.org/). This dataset provides comprehensive surface drilling parameters necessary for our predictive modeling.
 
 ## Data Preparation
-### Outlier Detection and Treatment
 - Identified and treated outliers (using domain knowledge and a capping strategy) to ensure data quality and model performance.
-
-### Data Type Conversion
 - Ensured all data types were correctly formatted for analysis and modeling.
 
 ## Exploratory Data Analysis (EDA)

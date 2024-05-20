@@ -23,8 +23,6 @@ The data for this project was obtained from the Utah FORGE Well 58-32 dataset, a
 ### Baseline Model
 - Developed a baseline model using a Random Forest classifier.
 - Conducted cross-validation to ensure robustness and generalizability of the baseline model.
-
-### Overfitting Check
 - Evaluated the model using both training and test scores to detect any signs of overfitting.
 
 ### Model Optimization
